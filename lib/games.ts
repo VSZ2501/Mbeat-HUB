@@ -19,6 +19,15 @@ export const GAMES: Game[] = [
     players: '3 joueurs et +',
   },
   {
+  id: 'blindtest-mbeat',
+  name: 'BlindTest-Mbeat',
+  tagline: 'Une playlist, un chrono. Qui reconnaît le plus vite ?',
+  url: 'https://blindtest-mbeat.vercel.app',
+  accent: '#22d3ee',
+  emoji: '🎧',
+  players: '2 joueurs et +',
+  },
+  {
     id: 'a-venir',
     name: 'Prochain jeu',
     tagline: 'Une idée en tête ? Le hub est prêt à l’accueillir.',
